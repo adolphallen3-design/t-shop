@@ -1,0 +1,5 @@
+id,name,price,product_code,category,image_path,in_stock,source
+1,Baby Carrier EN71,980,EN71-2,Baby Carriers,/images/BABY_CARRIER_EN71-2___980.jpeg,true,filename
+2,Baby Turban Cap,230,0021,Accessories,/images/BABY_TURBAN_CAP__0021__230.jpeg,true,filename
+3,Infant-to-Toddler Rocker (Teal),5800,68144,Toys & Bouncers,/images/BOUNCER__5800.jpeg,true,filename
+4,Infant-to-Toddler Rocker (Pink),5800,68147,Toys & Bouncers,/images/BOUNCER__5800__4_.jpeg,true,filename
